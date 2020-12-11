@@ -1,2 +1,3 @@
 # scrape_congressional-record
 議会議事録のスクレイピング
+1959年から1990年までの議会議事録pdfデータをgovinfo.comから取得したい
